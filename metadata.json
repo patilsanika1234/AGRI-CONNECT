@@ -1,0 +1,7 @@
+{
+  "name": "AgriConnect semester 8",
+  "description": "AI-Powered Farmers' Marketplace with Real-time Intelligence",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
