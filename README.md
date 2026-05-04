@@ -169,7 +169,7 @@ NODE_ENV=development
 ## 👩‍💻 Author
 
 * Your Name
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/patilsanika1234
 
 ---
 
